@@ -1,0 +1,32 @@
+{
+    "docters": [{
+        "ID": "D2109H",
+        "Nama": "Hiani Ginting",
+        "Alumnus": "Universitas Indonesia - 2007",
+        "Spesialis": "Dokter Gigi",
+        "Pengalaman": "10 tahun"},
+        {
+        "ID": "D1308K",
+        "Nama": "Kiana Safira Budiani",
+        "Alumnus": "Universitas Padjajaran - 2017",
+        "Spesialis": "Dokter Umum",
+        "Pengalaman": "4 tahun"},
+         {
+        "ID": "D1001N",
+        "Nama": "Nana Baryani",
+        "Alumnus": "Universitas Islam Bandung - 2008",
+        "Spesialis": "Dokter Penyakit Dalam",
+        "Pengalaman": "12 tahun"},
+         {
+        "ID": "D0403W",
+        "Nama": "Wisnu Pambudi",
+        "Alumnus": "Universitas Yarsi - 2011",
+        "Spesialis": "Dokter Jantung",
+        "Pengalaman": "10 tahun"},
+         {
+        "ID": "D2008N",
+        "Nama": "Nino Kharisma Ronazy",
+        "Alumnus": "Universitas Islam Indonesia - 2016",
+        "Spesialis": "Dokter Umum",
+        "Pengalaman": "4 tahun"}]
+}
